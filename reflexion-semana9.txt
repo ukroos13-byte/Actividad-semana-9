@@ -1,0 +1,8 @@
+Es fundamental que las plataformas tecnológicas de una comunidad funcionen
+sobre servidores estables y seguros porque esto garantiza continuidad en el servicio 
+y protección de la información. La establidad evita fallas, caídas o pérdidas de datos, 
+por  jemplo una  plataforma educativa  inestable puede causar inconvenientes
+en el desarrollo de actividades cotidanas de la comunidad educativa como los son exámenes,
+talleres en linea etc, que el servidor de una comunidad funcione de manera estable 
+permite que la comunidad le de un mejor uso alas plataformas y genera mas confianza 
+en los usuarios permitiendo asi mantener una comunicación continua.

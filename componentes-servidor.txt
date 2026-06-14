@@ -1,0 +1,16 @@
+Sistema Operativo: Un sistema operativo o demominado software es el fundamento primcipal
+por la cual la maquina responde y permite al usuario manejar el dispositivo.
+
+Node.js: Node.js es un componente en el lenguaje de la programacion el cual permite que los 
+desarrolladores manejen un mismo lenguaje con javascript el cual permite que en el navegador
+se pueda ver de una mejor forma.
+
+Aplicacion server.js: Fundamentalmente se utiliza para configurar un servidor web para   
+conectar bases de datos y conectar rutas dandole mejor rendimientos a las API. 
+
+Puerto: Un puerto es una interfaz que permite identificar a un servidor la ruta por la cual 
+se podrá abrir en el navegaador, por ejemplo http://localhost:3000
+
+Logs: El logs tiene un rol fundamental el cual es aquel que lleva un registro detallado y
+cronologico de lo que realizamos, donde podemos evidenciar las fallas y nuestras mejoras y sirve para
+monitorear. 

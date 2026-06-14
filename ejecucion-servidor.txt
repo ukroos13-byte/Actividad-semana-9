@@ -1,0 +1,3 @@
+cundo se ejcuta el node server.js el servidor se activa 
+cuando se ejcuta el node server.js en la terminal sale Servidor ejecutándose en puerto 3000
+Estado de la ruta: Servidor activo y funcionando 
